@@ -1,0 +1,20 @@
+PODS:
+  - json-enum (1.0.0)
+  - jsonlogic (1.0.0):
+    - json-enum (~> 1.0)
+
+DEPENDENCIES:
+  - jsonlogic
+
+SPEC REPOS:
+  trunk:
+    - json-enum
+    - jsonlogic
+
+SPEC CHECKSUMS:
+  json-enum: 64e6b6ae91fda4982e6179a8900b7f5d981c47b0
+  jsonlogic: 0cbdcb5790842eaa62b54d453653ed397aa46ecf
+
+PODFILE CHECKSUM: c50e5e46aa034f2b4b6956964451b9f8be0c4b67
+
+COCOAPODS: 1.8.4
